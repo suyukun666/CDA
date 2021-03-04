@@ -43,7 +43,7 @@ python run_sample.py
 ## Results and Trained Models
 #### Class Activation Map
 
-| Model          | Val (mIoU)    | |
+| Model          | Train (mIoU)    | |
 | ------------- |:-----:|:-----:|
 | ResNet-50 for IRnet    |  50.8 | [[Weights]](https://drive.google.com/file/d/1pnax7NkCMLEGD4QM7eH6YMcQES2uskJV/view?usp=sharing) |
 | ResNet-38 for SEAM    |  58.4 | [[Weights]](https://drive.google.com/file/d/14ewWX7v0E9HWf1Azu3ttnvd6gDRcbvXG/view?usp=sharing) |
@@ -52,7 +52,7 @@ python run_sample.py
 
 #### Pseudo Mask Models
 
-| Model         | Val (mIoU)    | |
+| Model         | Train (mIoU)    | |
 | ------------- |:-------------:|:-----:|
 | ResNet-50 for IRnet    |  67.7 | [[Weights]](https://drive.google.com/file/d/16lDaMRVHEmk5YSBwPU3eMuNq9u6UA8rS/view?usp=sharing) |
 | ResNet-38 for SEAM    |  66.4 | [[Weights]](https://drive.google.com/file/d/1wnbLQeStSrTkw2UvatOgZNEtaZZLvehx/view?usp=sharing) |
