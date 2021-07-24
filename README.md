@@ -11,12 +11,14 @@ Thanks to the work of [jiwoon-ahn](https://github.com/jiwoon-ahn), our work is m
 ## Citation
 If you find the code useful, please consider citing our paper using the following BibTeX entry.
 ```
-@misc{2103.01795,
-Author = {Yukun Su and Ruizhou Sun and Guosheng Lin and Qingyao Wu},
-Title = {Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation},
-Year = {2021},
-Eprint = {arXiv:2103.01795},
+@InProceedings{CDA_2021_ICCV,
+author = {Yukun Su and Ruizhou Sun and Guosheng Lin and Qingyao Wu},
+title = {Context Decoupling Augmentation for Weakly Supervised Semantic Segmentation},
+booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+month = {October},
+year = {2021}
 }
+
 ```
 
 ## Prerequisite
